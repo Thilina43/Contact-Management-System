@@ -1,0 +1,1 @@
+This project is a simple Contact Management System implemented in C. It allows users to manage their contacts efficiently by providing functionalities to add, list, search, and delete contacts. This system is designed as part of the CO253-Introduction to Programming and Networking for Electrical Engineering course at the University of Peradeniya.
